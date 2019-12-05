@@ -55,8 +55,16 @@ dkms.conf
 
 *.nca
 main
+*rtld
 *sdk
 *sub
+*subsdk0
+*subsdk1
+*subsdk2
+*subsdk3
+*subsdk4
+*subsdk5
+*subsdk6
 *main.npdm
 *.png
 *.gif
